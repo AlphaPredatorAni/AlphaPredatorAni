@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AlphaPredatorAni
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Web Developemnt
-- 🤩 Seeking for a Oppurtunity
+- 👀 Interested in Full Stack Web Development
+- 🌱 Currently learning Web Developemnt
+- 🤩 Seeking for a Oppurtunity to work with MNC's
+- 👻 Can be a main() to your void() ♥️
 
 <!---
 AlphaPredatorAni/AlphaPredatorAni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
