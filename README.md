@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphaPredatorAni
 - 👀 Interested in Full Stack Web Development
-- 🌱 Currently learning Web Developemnt
+- 🌱 Currently learning Front End Web Developemnt
 - 🤩 Seeking for a Oppurtunity to work with MNC's
 - 👻 Can be a main() to your void() ♥️
 
