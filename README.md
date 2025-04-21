@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlphaPredatorAni
+- 👋 Hi, I’m Aniruddh
 - 👀 Interested in Full Stack Web Development
 - 🌱 Currently learning Front End Web Developemnt
 - 🤩 Seeking for a Oppurtunity to work with MNC's
